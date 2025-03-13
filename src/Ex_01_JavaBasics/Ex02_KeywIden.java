@@ -1,7 +1,8 @@
 package Ex_01_JavaBasics;
 
-public class Ex_02_Test {
+public class Ex02_KeywIden {
     // Keywords, identifiers and println
+    //
     // always shown 1, not decimal values
 
     public static void main(String[] arg){

@@ -1,6 +1,6 @@
 package Ex_01_JavaBasics;
 
-public class Ex_01_Test {
+public class Ex01_Prnt {
     public static void main(String[] args) {
         System.out.println("Hello World!. Welcome to learning Automation");
     }
