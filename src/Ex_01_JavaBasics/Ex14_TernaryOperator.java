@@ -6,7 +6,7 @@ public class Ex14_TernaryOperator {
     // result = condition ? expression1 : expression2
     int var1 = 10;
     int var2 = 40;
-    String Result = (var1< var2) ? "Var1 is visible" : "Var1 is visible";
+    String Result = (var1<var2) ? "Var1 is visible" : "Var1 is visible";
     System.out.println(Result);
 
     int num = 10;
