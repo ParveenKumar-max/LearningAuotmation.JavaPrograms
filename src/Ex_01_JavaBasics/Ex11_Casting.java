@@ -1,6 +1,6 @@
 package Ex_01_JavaBasics;
 
-public class EX11_Casting {
+public class Ex11_Casting {
     public static void main(String[] args) {
         // Type Casting -- Widening & Narrowing (Both Implicit and Explicit)
 

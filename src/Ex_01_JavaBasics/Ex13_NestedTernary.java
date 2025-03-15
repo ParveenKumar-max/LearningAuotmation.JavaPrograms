@@ -1,6 +1,6 @@
 package Ex_01_JavaBasics;
 
-public class EX13_NestedTernary {
+public class Ex13_NestedTernary {
     public static void main(String[] args) {
         // Nested Ternary
         //String value = condition ? expression1 : (condition ? expression2 : expression3);
