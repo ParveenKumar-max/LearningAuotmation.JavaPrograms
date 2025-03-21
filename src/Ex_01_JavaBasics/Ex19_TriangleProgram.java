@@ -32,6 +32,8 @@ public class Ex19_TriangleProgram {
             System.out.println("No Sides are equal");
 
         }
-
+            scanner_s1.close();
+            scanner_s2.close();
+            scanner_s3.close();
         }
     }
