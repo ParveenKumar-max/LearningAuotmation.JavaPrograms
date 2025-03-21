@@ -12,6 +12,6 @@
 
 19-03-2025 -- Conditions --> if, else, elseif, switch, break & continue
 
-21-03-2025 -- Loop --> for, while, do while
+21-03-2025 -- Loop --> for, while, Factorial and Random Number Game
 
 
