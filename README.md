@@ -8,4 +8,6 @@
 
 16-03-2035 -- Taking Inout from Scanner class, Program argument and Nested ternary
 
+16-03-2035 -- Print Triangle Classifier using scanner class
+
 
