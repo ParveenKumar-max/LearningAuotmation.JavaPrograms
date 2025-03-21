@@ -3,7 +3,7 @@ package Ex_01_JavaBasics;
 public class Ex22_ForLoop {
     public static void main(String[] args) {
         // Loop conditions
-       /* int i;
+        int i;
         for (i = 0; i <= 10; i++) {
 
             System.out.println(i + " " + "Check");
@@ -15,17 +15,18 @@ public class Ex22_ForLoop {
             } else {
                 System.out.println("No Gift");
             }
-        }*/
-
+        }
 
         int j = 70;
-        for (j=0;j<=70;j++){
-            if (j % 2 == 0){
+        for (j = 0; j <= 70; j++) {
+            if (j % 2 == 0) {
                 System.out.println("Even Value" + " " + j);
-                continue;        // We can use continue and break keyword to continue or Break the process
+                continue;
             }
-            if (j % 2 != 0){
-                System.out.println("Odd Number" + " "+ j);
+            if(j % 2 != 0) {
+                System.out.println("Odd Number" + " " + j);
+                break;
+
             }
         }
     }
