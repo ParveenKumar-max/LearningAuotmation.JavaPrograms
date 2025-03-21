@@ -10,4 +10,8 @@
 
 16-03-2035 -- Print Triangle Classifier using scanner class
 
+19-03-2025 -- Conditions --> if, else, elseif, switch, break & continue
+
+21-03-2025 -- Loop --> for, while, do while
+
 
