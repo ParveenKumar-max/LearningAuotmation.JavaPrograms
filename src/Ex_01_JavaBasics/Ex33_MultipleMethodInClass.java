@@ -1,6 +1,6 @@
 package Ex_01_JavaBasics;
 
-public class Ex31_MultipleMethodInClass {
+public class Ex33_MultipleMethodInClass {
     public static void main(String[] args) {
 
         //Multiple Method in one class with different Data Type but
