@@ -16,11 +16,13 @@ public class Ex19_TriangleProgram {
 
         // Given three input values representing the lengths of the sides,
         Scanner scanner_s1 = new Scanner(System.in);
+        System.out.println("Enter the Value........");
+
         int value1 = scanner_s1.nextInt();
-        Scanner scanner_s2 = new Scanner(System.in);
-        int value2 = scanner_s2.nextInt();
-        Scanner scanner_s3 = new Scanner(System.in);
-        int value3 = scanner_s3.nextInt();
+
+        int value2 = scanner_s1.nextInt();
+
+        int value3 = scanner_s1.nextInt();
 
         if (value1 == value2 && value2 == value3 && value1 == value3) {
             System.out.println("It's equilateral Triangle");
@@ -33,7 +35,5 @@ public class Ex19_TriangleProgram {
 
         }
             scanner_s1.close();
-            scanner_s2.close();
-            scanner_s3.close();
         }
     }
