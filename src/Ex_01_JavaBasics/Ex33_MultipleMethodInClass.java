@@ -9,8 +9,6 @@ public class Ex33_MultipleMethodInClass {
 
        main(10);
 
-
-
     }
     public static void main(int args) {
         return;
@@ -27,6 +25,5 @@ public class Ex33_MultipleMethodInClass {
     public static void main(byte args) {
         return;
     }
-
 
 }
