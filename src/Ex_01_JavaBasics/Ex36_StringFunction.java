@@ -69,6 +69,15 @@ public class Ex36_StringFunction {
         // 17. compareTo()
         System.out.println(name.compareTo("Parveen")); // Value is same --> Output 0
 
+        // 18. contains - Validate input strings (e.g., check if a URL contains "http")
+        // True -- If the sequence is found. String is case Sensitive, p and P is always matter, as per String it's not same
+
+        String strvalue1 = "Parveen Kumar";
+        String strvalue2 = new String("parveen kumar");
+        System.out.println(strvalue1.contains("Parveen Kumar"));  // true
+        System.out.println(strvalue2.contains("Parveen Kumar"));  // false
+
+
 
         // Below both function print variable value but in different way.
         StringBuilder stringBuilder = new StringBuilder("Parveen");
