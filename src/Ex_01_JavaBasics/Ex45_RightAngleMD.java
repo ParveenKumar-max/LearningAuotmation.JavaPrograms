@@ -46,5 +46,14 @@ public class Ex45_RightAngleMD {
             }
             System.out.println();
         }
+
+        System.out.println("----------------------------------------------");
+
+        System.out.println("Enter the Value MD for Pyramid");
+
+
+
+
+
     }
 }
