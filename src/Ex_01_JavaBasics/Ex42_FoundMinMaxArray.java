@@ -9,19 +9,19 @@ public class Ex42_FoundMinMaxArray {
 
         int found_max_num = give_me_max(value1);
         System.out.println(found_max_num);
+        System.out.println(value1[value1.length-2]);
 
         int found_min_num = give_me_min(value1);
         System.out.println(found_min_num);
     }
 
-    static int give_me_max(int[] value1) {
+    static int give_me_max( int[] value1) {
 
         int max = value1[0];
         for (int i = 0; i < value1.length; i++) {
             if (value1[i] > max) {
                 max = value1[i];
             }
-
         }
 
         return max;
