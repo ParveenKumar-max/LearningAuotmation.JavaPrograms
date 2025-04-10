@@ -14,7 +14,6 @@ public class Ex47_PyramidProgram {
                 }
                 System.out.println();
             }
-
         }
     }
 }

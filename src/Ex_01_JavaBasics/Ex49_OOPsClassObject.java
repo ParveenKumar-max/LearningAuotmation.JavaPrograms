@@ -17,7 +17,6 @@ public class Ex49_OOPsClassObject {
         value2.age = 31;
         System.out.println(value2);
 
-
 }
 
    static class Students {

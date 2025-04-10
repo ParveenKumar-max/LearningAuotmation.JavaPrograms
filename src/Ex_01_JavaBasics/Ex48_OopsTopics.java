@@ -11,7 +11,6 @@ public class Ex48_OopsTopics {
         int salary;
         String gender;
 
-
         // Behaviour
   /*      void speak() {
         }
