@@ -1,6 +1,6 @@
-package Ex_01_JavaBasics;
+package Ex_01_JavaBasics.Ex49_ConstructorOops;
 
-public class Ex51_DefualtConstructor {
+public class Ex49_02_DefualtConstructor {
     public static void main(String[] args) {
 
         DefaultValue  DC1 = new DefaultValue();

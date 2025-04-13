@@ -1,6 +1,6 @@
-package Ex_01_JavaBasics;
+package Ex_01_JavaBasics.Ex48_ClassObjectOops;
 
-public class Ex48_OopsTopics {
+public class Ex48_01_OopsTopics {
     public static void main(String[] args) {
 
         // Attributes

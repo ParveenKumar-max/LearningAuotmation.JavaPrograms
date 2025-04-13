@@ -1,6 +1,6 @@
-package Ex_01_JavaBasics;
+package Ex_01_JavaBasics.Ex48_ClassObjectOops;
 
-public class Ex49_OOPsClassObject {
+public class Ex48_02_OOPsClassObject {
     public static void main(String[] args) {
 
         // @Students is a clas loading @value1 is reference variable @new Students is Object.

@@ -1,6 +1,6 @@
-package Ex_01_JavaBasics;
+package Ex_01_JavaBasics.Ex49_ConstructorOops;
 
-public class Ex50_Constructor {
+public class Ex49_01_Constructor {
 
     public static void main(String[] args) {
         // Create a Student object
@@ -8,7 +8,7 @@ public class Ex50_Constructor {
         // Call the method to display student details
         student1.displayInfo();
 
-        Ex50_Constructor ex50Constructor = new Ex50_Constructor();
+        Ex49_01_Constructor ex50Constructor = new Ex49_01_Constructor();
         ex50Constructor.intValue();
 
     }

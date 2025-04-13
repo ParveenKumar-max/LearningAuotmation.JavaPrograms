@@ -1,6 +1,6 @@
-package Ex_01_JavaBasics;
+package Ex_01_JavaBasics.Ex49_ConstructorOops;
 
-public class Ex52_ParametrizedConstructor {
+public class Ex49_03_ParametrizedConstructor {
     public static void main(String[] args) {
 
         DefaultValue1 DC1 = new DefaultValue1(1,30,"Parveen", 40L, 3750);
