@@ -16,7 +16,7 @@ public class Ex52_02_Encapsulation {
         // So every time in encapsulation we create a private class. And use Getter and Setter.
 
         // Now create two new attribute wih private access modifier. But i can't acces them in other class
-        // So i will create a main method in the same class.
+        // So I will create a main method in the same class.
     }
 
 
