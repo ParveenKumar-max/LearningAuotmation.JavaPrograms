@@ -21,7 +21,7 @@ class CheckModifier {
         System.out.println("Print Acc1");
 
     } // acc1 --> The only way to access the method on another package class, is to import it, OKAY,
-    // After import , you have to use extends keyowrds to access the Protected Method.
+    // After import , you have to use extends keywords to access the Protected Method.
 
     private void acc2() {
         System.out.println("Print Acc2");
