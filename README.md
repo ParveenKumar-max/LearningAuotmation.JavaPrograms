@@ -23,6 +23,19 @@
 ************Break**************
 
 04-04-2025 --> Array, Multidimension array 2D, 3D
+
 05-04-2025 --> OOP's Concept -- in progress
+
+06-04-2025 --> Class & Object
+
+07-04-2025 --> Constructor
+
+09-04-2025 - Inheritance ( Single, Multilevel)
+
+11-04-2025 --> Inheritance ( Heirarhical Inheritance)
+
+13 -04 -2025 --> Polymorphism ( Compile Time polymorphism and Run Time Polymorephism)
+
+15-04-2025 --> Encapsulation , Access modifier
 
 
