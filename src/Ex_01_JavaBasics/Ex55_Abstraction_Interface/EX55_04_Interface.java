@@ -15,7 +15,6 @@ public class EX55_04_Interface {
 
 class Son1 implements Father1, Mother1{ 
 
-    int i = 10;
     Son1(){
         System.out.println("Default Constructor always pick first while creating object of this class");
 
@@ -29,7 +28,6 @@ class Son1 implements Father1, Mother1{
 // 1. Interface class created
 interface Father1{
 
-    int i = 30;
     public void money(); // Method created under interface method
     // Father1(){}  // Constructor is not allowed in interface.
 
