@@ -19,20 +19,20 @@ abstract class Father{  // abstract class
 
     void loan25k(){  // Complete Method
         System.out.println("Given 25K");
-    }
+    } // Normal Method
 
     Father(){
         System.out.println("Dafault Constructor");
-    }
+    } // Constructor
 
     Father(int a){
         System.out.println("Parametrized Constructor");
-    }
+    } // Parameterized Constructor
     void Display(){
 
         System.out.println("Show all result");
 
-    }
+    } // Normal Method
 }
 
 class Son extends Father {
