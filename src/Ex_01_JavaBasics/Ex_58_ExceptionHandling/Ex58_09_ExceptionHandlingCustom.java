@@ -2,7 +2,7 @@ package Ex_01_JavaBasics.Ex_58_ExceptionHandling;
 
 import java.util.Scanner;
 
-public class Ex_58_09_ExceptionHandlingCustom {
+public class Ex58_09_ExceptionHandlingCustom {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
