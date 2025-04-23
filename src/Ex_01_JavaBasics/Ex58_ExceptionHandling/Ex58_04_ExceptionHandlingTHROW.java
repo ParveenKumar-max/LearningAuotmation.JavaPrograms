@@ -1,4 +1,4 @@
-package Ex_01_JavaBasics.Ex_58_ExceptionHandling;
+package Ex_01_JavaBasics.Ex58_ExceptionHandling;
 
 public class Ex58_04_ExceptionHandlingTHROW {
     public static void main(String[] args) {

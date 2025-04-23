@@ -1,4 +1,4 @@
-package Ex_01_JavaBasics.Ex_58_ExceptionHandling;
+package Ex_01_JavaBasics.Ex58_ExceptionHandling;
 
 import java.util.Scanner;
 
