@@ -40,6 +40,14 @@
 
 15-04-2025 --> Abstraction & Interface.
 
+18-04-2025 -- Static Keyword , Use in Method, class, variable
+
+20-04-2025 --> Wrapper Class, Primitive Data Types
+
+22-04-2025 --> Exception Hadling ( Compile Time & Run time, Checked and Unchecked, Throws & Throw, try & Catch)
+
+24-04-2025 --> Generics, class, method, and Interface <T>
+
 
 
 
