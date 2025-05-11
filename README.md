@@ -48,6 +48,17 @@
 
 24-04-2025 --> Generics, class, method, and Interface <T>
 
+26-04-2025 --> List, Map and Queue.
+
+30-04-2025 --> ArrayList, LinkedList, & Vector
+
+03-05-2025 --> HashSet, LinkedHashSet & TreeSet
+
+05-05-2025 --> Comparable VS Comparartor
+
+05-05-2025 --> Priority Queue, LinkedList, ArrayDeque ( Mostly we used Priority Queue)
+
+09-05-2025 --> Hashing Technique
 
 
 
